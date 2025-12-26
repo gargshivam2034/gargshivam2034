@@ -35,47 +35,5 @@ I enjoy building reliable backend systems, crafting smooth front-end experiences
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
----
 
-## 🧰 Skills (at a glance)
 
-| Category | Skills / Tools |
-|---|---|
-| Languages | C, C++, Java |
-| Frameworks | Spring Boot, Spring |
-| Auth & Security | JWT, API security practices |
-| Frontend | React.js, React Router, HTML5 |
-| Databases | PostgreSQL, MySQL |
-| Tools | Git, Postman, VS Code, Debugging & Profiling |
-
----
-
-## 🔍 What I enjoy solving
-- Secure, scalable REST APIs with token-based auth (JWT)
-- Optimizing SQL queries and schema for performance
-- Algorithmic challenges and data-structure design
-- Debugging production issues and improving observability
-- Building responsive frontends that connect to robust backends
-
----
-
-## 📂 Projects
-(Replace with your projects and links)
-- Authentication Service — Spring Boot + PostgreSQL + JWT
-- Realtime Dashboard — React.js + REST API + MySQL
-- Competitive Programming Repo — algorithms & DS solutions (C/C++/Java)
-
----
-
-## 📫 Connect
-- GitHub: [gargshivam2034](https://github.com/gargshivam2034)  
-- Email: (add your email here)  
-- Available for: Full-time, internships, freelance & open-source collaboration
-
----
-
-## 📈 GitHub Stats
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=gargshivam2034&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gargshivam2034&layout=compact&theme=tokyonight)
-
----
