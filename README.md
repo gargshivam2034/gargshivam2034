@@ -11,7 +11,7 @@ I enjoy building reliable backend systems, crafting smooth front-end experiences
 
 ## 💬 Ask me about
 - Designing secure APIs and authentication (JWT)
-- Building production-ready services with Spring Boot
+- Building production-ready services with Spring Boot and .Net core
 - Database design & SQL tuning (Postgres / MySQL)
 - Algorithms, data structures, and competitive programming
 - Debugging tricky issues and improving performance
